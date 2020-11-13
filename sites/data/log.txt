@@ -1,3 +1,4 @@
 
 13/11/2020 04:29:37 Se elimino transaccion ID 1
 13/11/2020 04:29:38 Se elimino transaccion ID 2
+13/11/2020 04:40:46 Se creo nueva transaccion
